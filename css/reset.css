@@ -1,0 +1,25 @@
+*{
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+a{
+    text-decoration: none;
+}
+ul, li, ol{
+    list-style: none;
+}
+
+
+
+
+
+/* 
+반응형 만들때 360px정도까지 설정해두면 좋을듯.
+ */
+
+ 
+ /* 
+ justify-content
+ ->flex를 썼을때 사용 flex-end
+ ->그냥 끝으로 보낼 때 사용 end */
